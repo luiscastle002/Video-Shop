@@ -35,3 +35,8 @@ Thumbs.db
 *.bak
 *.swp
 *~
+
+# Carpetas de trabajo interno fuera del repositorio oficial
+.outside_the_project/
+
+

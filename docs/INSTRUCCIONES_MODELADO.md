@@ -30,3 +30,4 @@ Debe reflejar fielmente las estructuras y clases del codigo de [v0/tienda_v0.cpp
 - `class TiendaVideojuegos`:
   - Atributos: `productos: vector<Producto>`, `historialVentas: vector<Venta>`, `totalVentas: double`, `contadorVentas: int`.
   - Metodos: `registrarProducto()`, `consultarInventario()`, `buscarProducto(codigo: string): Producto*`, `registrarVenta()`, `reporteDeVentas()`.
+
