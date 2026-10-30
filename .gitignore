@@ -1,0 +1,37 @@
+# Compilados y ejecutables
+*.exe
+*.o
+*.obj
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Carpetas de compilacion y temporales
+build/
+bin/
+obj/
+dist/
+*.pdb
+*.ilk
+
+# Entornos y editores
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos del sistema operativo
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Archivos de respaldo y logs
+*.log
+*.tmp
+*.bak
+*.swp
+*~
