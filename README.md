@@ -12,7 +12,7 @@ Proyecto final para el curso de **Patrones de Software** (Código 74362) — Per
 | :--- | :--- | :--- |
 | **Luis Cardona** | **Responsable de código** | Coordina la construcción de las versiones 0 y 1, el control de versiones y su integración técnica. |
 | *(Por definir)* | **Responsable de diseño** | Coordina la selección de patrones, diagnóstico de antipatrones y coherencia arquitectural. |
-| *(Por definir)* | **Responsable de modelado** | Elabora los diagramas UML (clases, secuencia, comunicación) y mantiene la documentación. |
+| **Sebastian Orozco** | **Responsable de modelado** | Elabora los diagramas UML (clases, secuencia, comunicación) y mantiene la documentación. |
 
 ---
 
