@@ -1,6 +1,5 @@
 # Diagrama de Clases - Video Shop (Versión 1)
-
-
+# Diagrama de Clases - Tienda de Vídeos (Versión 1)
 
 ```mermaid
 classDiagram
@@ -203,8 +202,27 @@ classDiagram
     Inventario "1" --> "*" Venta : registra historial
     Venta ..> MedioPago : se liquida usando
 
-    %% Asignación de clases a los estilos de color
-    class CalculoPrecio,PrecioBase,DecoradorPrecio,ConIVA,ConCargoPlataforma,ConGarantia estructural;
-    class FabricaProducto,FabricaFisico,FabricaDigital,FabricaConsola,FabricaAccesorio creacional;
-    class MedioPago,PagoEfectivo,PagoTransferencia,PagoTarjeta comportamiento;
-    class Producto,ItemVenta,Venta,Inventario,Comprobante dominio;
+    %% Asignación individual de estilos (Compatible con GitHub)
+    class CalculoPrecio estructural;
+    class PrecioBase estructural;
+    class DecoradorPrecio estructural;
+    class ConIVA estructural;
+    class ConCargoPlataforma estructural;
+    class ConGarantia estructural;
+
+    class FabricaProducto creacional;
+    class FabricaFisico creacional;
+    class FabricaDigital creacional;
+    class FabricaConsola creacional;
+    class FabricaAccesorio creacional;
+
+    class MedioPago comportamiento;
+    class PagoEfectivo comportamiento;
+    class PagoTransferencia comportamiento;
+    class PagoTarjeta comportamiento;
+
+    class Producto dominio;
+    class ItemVenta dominio;
+    class Venta dominio;
+    class Inventario dominio;
+    class Comprobante dominio;
