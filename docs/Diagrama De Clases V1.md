@@ -1,4 +1,4 @@
-[gemini-code-1794084700687.md](https://github.com/user-attachments/files/34528664/gemini-code-1794084700687.md)
+
 # Diagrama de Clases - Tienda de Vídeos (Versión 1)
 
 ```mermaid
