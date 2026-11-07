@@ -1,0 +1,164 @@
+
+========== VIDEO SHOP ==========
+1. Registrar producto
+2. Consultar inventario
+3. Registrar venta
+4. Reporte de ventas
+0. Salir
+
+Seleccione una opcion:
+========================================================================================
+                           INVENTARIO ACTUAL - VIDEO SHOP
+========================================================================================
+CODIGO  NOMBRE                             PRECIO BASE     STOCK     CATEGORIA
+----------------------------------------------------------------------------------------
+J01     The Legend of Zelda: Tears         $    280000.00      12    Juego Fisico
+J02     Elden Ring Shadow DLC (Code)       $    150000.00      25    Juego Digital
+C01     Consola PlayStation 5 Slim         $   2600000.00       4    Consola/Hardware
+C02     Consola Nintendo Switch OLED       $   1600000.00       6    Consola/Hardware
+A01     Control Inalambrico Xbox           $    290000.00       8    Accesorio
+========================================================================================
+
+========== VIDEO SHOP ==========
+1. Registrar producto
+2. Consultar inventario
+3. Registrar venta
+4. Reporte de ventas
+0. Salir
+
+Seleccione una opcion:
+--- REGISTRAR NUEVO PRODUCTO ---
+Ingrese codigo del producto (ej. J03): Ingrese nombre del producto: Ingrese precio unitario (COP): Ingrese stock inicial: Seleccione categoria (1: Juego Fisico, 2: Juego Digital, 3: Consola/Hardware, 4: Accesorio): >> Producto 'Cyberpunk 2077 Ultimate (Code)' registrado exitosamente en inventario.
+
+========== VIDEO SHOP ==========
+1. Registrar producto
+2. Consultar inventario
+3. Registrar venta
+4. Reporte de ventas
+0. Salir
+
+Seleccione una opcion:
+--- REGISTRAR NUEVA VENTA ---
+
+========================================================================================
+                           INVENTARIO ACTUAL - VIDEO SHOP
+========================================================================================
+CODIGO  NOMBRE                             PRECIO BASE     STOCK     CATEGORIA
+----------------------------------------------------------------------------------------
+J01     The Legend of Zelda: Tears         $    280000.00      12    Juego Fisico
+J02     Elden Ring Shadow DLC (Code)       $    150000.00      25    Juego Digital
+C01     Consola PlayStation 5 Slim         $   2600000.00       4    Consola/Hardware
+C02     Consola Nintendo Switch OLED       $   1600000.00       6    Consola/Hardware
+A01     Control Inalambrico Xbox           $    290000.00       8    Accesorio
+J03     Cyberpunk 2077 Ultimate (Code)     $    120000.00       6    Juego Digital
+========================================================================================
+
+Ingrese codigo del producto a comprar (o 0 para cancelar): Producto seleccionado: The Legend of Zelda: Tears (Stock disponible: 12)
+Ingrese cantidad a comprar: >> Item agregado al carrito de venta.
+
+Desea agregar otro producto a esta misma venta? (s/n, c para cancelar venta):
+========================================================================================
+                           INVENTARIO ACTUAL - VIDEO SHOP
+========================================================================================
+CODIGO  NOMBRE                             PRECIO BASE     STOCK     CATEGORIA
+----------------------------------------------------------------------------------------
+J01     The Legend of Zelda: Tears         $    280000.00      12    Juego Fisico
+J02     Elden Ring Shadow DLC (Code)       $    150000.00      25    Juego Digital
+C01     Consola PlayStation 5 Slim         $   2600000.00       4    Consola/Hardware
+C02     Consola Nintendo Switch OLED       $   1600000.00       6    Consola/Hardware
+A01     Control Inalambrico Xbox           $    290000.00       8    Accesorio
+J03     Cyberpunk 2077 Ultimate (Code)     $    120000.00       6    Juego Digital
+========================================================================================
+
+Ingrese codigo del producto a comprar (o 0 para cancelar): Producto seleccionado: Consola PlayStation 5 Slim (Stock disponible: 4)
+Ingrese cantidad a comprar: >>> [ALERTA DE STOCK (F5)] Stock critico para 'Consola PlayStation 5 Slim'! Quedan solo 3 unidades en bodega.
+>> Item agregado al carrito de venta.
+
+Desea agregar otro producto a esta misma venta? (s/n, c para cancelar venta):
+========================================================================================
+                           INVENTARIO ACTUAL - VIDEO SHOP
+========================================================================================
+CODIGO  NOMBRE                             PRECIO BASE     STOCK     CATEGORIA
+----------------------------------------------------------------------------------------
+J01     The Legend of Zelda: Tears         $    280000.00      12    Juego Fisico
+J02     Elden Ring Shadow DLC (Code)       $    150000.00      25    Juego Digital
+C01     Consola PlayStation 5 Slim         $   2600000.00       4    Consola/Hardware
+C02     Consola Nintendo Switch OLED       $   1600000.00       6    Consola/Hardware
+A01     Control Inalambrico Xbox           $    290000.00       8    Accesorio
+J03     Cyberpunk 2077 Ultimate (Code)     $    120000.00       6    Juego Digital
+========================================================================================
+
+Ingrese codigo del producto a comprar (o 0 para cancelar): Producto seleccionado: Cyberpunk 2077 Ultimate (Code) (Stock disponible: 6)
+Ingrese cantidad a comprar: >>> [ALERTA DE STOCK (F5)] Stock critico para 'Cyberpunk 2077 Ultimate (Code)'! Quedan solo 4 unidades en bodega.
+>> Item agregado al carrito de venta.
+
+Desea agregar otro producto a esta misma venta? (s/n, c para cancelar venta):
+Seleccione la forma de pago:
+1. Efectivo (Sin recargos ni descuentos)
+2. Transferencia Bancaria (Descuento del 3%)
+3. Tarjeta de Credito (Descuento especial 3% pero recargo de pasarela $800 COP)
+0. Cancelar venta
+Opcion:
+========================================================================================
+                          COMPROBANTE DE VENTA #1 - VIDEO SHOP
+========================================================================================
+CODIGO    DESCRIPCION                        CANTIDAD  PRECIO LINEA
+----------------------------------------------------------------------------------------
+J01       The Legend of Zelda: Tears              2    $      666400.00
+C01       Consola PlayStation 5 Slim              1    $     3099000.00
+J03       Cyberpunk 2077 Ultimate (Code)          2    $      252000.00
+----------------------------------------------------------------------------------------
+SUBTOTAL (CON IMPUESTOS POR TIPO):                 $     4017400.00
+DESCUENTO TRANSFERENCIA (3%):                      -$     120522.00
+TOTAL PAGADO:                                      $     3896878.00
+========================================================================================
+>> Venta registrada con exito.
+
+========== VIDEO SHOP ==========
+1. Registrar producto
+2. Consultar inventario
+3. Registrar venta
+4. Reporte de ventas
+0. Salir
+
+Seleccione una opcion:
+========================================================================================
+                           INVENTARIO ACTUAL - VIDEO SHOP
+========================================================================================
+CODIGO  NOMBRE                             PRECIO BASE     STOCK     CATEGORIA
+----------------------------------------------------------------------------------------
+J01     The Legend of Zelda: Tears         $    280000.00      10    Juego Fisico
+J02     Elden Ring Shadow DLC (Code)       $    150000.00      25    Juego Digital
+C01     Consola PlayStation 5 Slim         $   2600000.00       3    Consola/Hardware
+C02     Consola Nintendo Switch OLED       $   1600000.00       6    Consola/Hardware
+A01     Control Inalambrico Xbox           $    290000.00       8    Accesorio
+J03     Cyberpunk 2077 Ultimate (Code)     $    120000.00       4    Juego Digital
+========================================================================================
+
+========== VIDEO SHOP ==========
+1. Registrar producto
+2. Consultar inventario
+3. Registrar venta
+4. Reporte de ventas
+0. Salir
+
+Seleccione una opcion:
+========================================================================================
+                         REPORTE HISTORICO DE VENTAS
+========================================================================================
+VENTA #   TOTAL ITEMS    FORMA DE PAGO            VALOR TOTAL
+----------------------------------------------------------------------------------------
+1               5        Transferencia (-3%)      $      3896878.00
+----------------------------------------------------------------------------------------
+RECAUDO TOTAL HISTORICO EN CAJA:                  $        3896878.00
+========================================================================================
+
+========== VIDEO SHOP ==========
+1. Registrar producto
+2. Consultar inventario
+3. Registrar venta
+4. Reporte de ventas
+0. Salir
+
+Seleccione una opcion:
+Cerrando sistema Video Shop. Hasta luego!
