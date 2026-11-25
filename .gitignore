@@ -39,4 +39,7 @@ Thumbs.db
 # Carpetas de trabajo interno fuera del repositorio oficial
 .outside_the_project/
 
+# Datos locales generados durante la ejecucion de V1
+/v1/data/
+
 
